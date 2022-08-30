@@ -1,0 +1,8 @@
+PUT http://localhost:3001/api/users/62ead0e9d1018dfe30f33fd9 HTTP/1.1
+content-type: application/json
+
+{
+    "userId": "62ead0e9d1018dfe30f33fd9",
+    "password": "$2b$10$GQLQkc3Y9yOlFAhaNy5H5OF7YLtT0UI7S.mPCWR/Y5LxfEgyl8bWW"
+}
+
